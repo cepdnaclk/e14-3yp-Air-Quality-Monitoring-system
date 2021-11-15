@@ -8,10 +8,10 @@ title: Air Quality Monitoring system
 # Air Quality Monitoring system
 
 ---
-	
+
 ## Team
--  E/14/049, KASUN VIMUKTHI, [e140494@eng.pdn.ac.lk](mailto:e14049@eng.pdn.ac.lk)
--  E/14/037, BANDARA M.K.G.E.S.P., [e14037@eng.pdn.ac.lk](mailto:e14037@eng.pdn.ac.lk)
+-  E/14/049, KASUN VIMUKTHI, [e140494@ce.pdn.ac.lk](mailto:e14049@ce.pdn.ac.lk)
+-  E/14/037, BANDARA M.K.G.E.S.P., [e14037@ce.pdn.ac.lk](mailto:e14037@ce.pdn.ac.lk)
 
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -71,7 +71,7 @@ sound level percentages
 
  Angular.js will use the for the front end.
 
- 
+
 
  sensitive data in this system are as follows;
 
@@ -85,7 +85,7 @@ sound level percentages
 - <a href = "https://github.com/cepdnaclk/e14-3yp-Air-Quality-Monitoring-system" target = "_blank"> Project Repository </a>
 - <a href = "https://cepdnaclk.github.io/e14-3yp-Air-Quality-Monitoring-system/" target = "_blank">Project Page</a>
 - <a href = "http://www.ce.pdn.ac.lk/" target = "_blank">Department of Computer Engineering</a>
-- <a href = "https://eng.pdn.ac.lk/" target = "_blank">University of Peradeniya</a>
+- <a href = "https://ce.pdn.ac.lk/" target = "_blank">University of Peradeniya</a>
 
 
 
